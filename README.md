@@ -1,6 +1,6 @@
 # Random-Advice-Generator
 
-[Live Deployment Here](https://random-adviceee.netlify.app/)
+[Live Deployment Here]()
 
 This site puts out random advice for you when you click on the generate button!
 
